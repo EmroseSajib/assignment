@@ -1,0 +1,26 @@
+body{width: 80%;margin: auto;margin-top: 15px;background: #80cbc473;color: #28312e;font-size: 18px;}
+.title-head{
+  text-align: center;
+}
+.title-head h1{
+  background: aliceblue;
+  padding: 10px;
+  box-shadow: 3px -3px 10px #1b78bb82;
+}
+.title-head img{
+
+}
+span{
+  color:#43d0c3;
+}
+table{text-align: center;width: 1100px;background: aliceblue;box-shadow: 1px -1px 10px #000002;}
+tr{background: transparent !important;}
+th {
+    background: #5da09a94;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    position: sticky;
+    top: 0%;
+    padding-bottom: 0px;
+}
